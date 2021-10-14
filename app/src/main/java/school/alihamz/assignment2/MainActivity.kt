@@ -7,6 +7,7 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentTransaction
 import school.alihamz.assignment2.database.UserRepository
 import school.alihamz.assignment2.databinding.ActivityMainBinding
+import school.alihamz.assignment2.fragment.NewQuestationFragment
 
 class MainActivity : AppCompatActivity() {
 

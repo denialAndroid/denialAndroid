@@ -1,4 +1,4 @@
-package school.alihamz.assignment2
+package school.alihamz.assignment2.fragment
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -6,10 +6,9 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.FragmentTransaction
-import androidx.navigation.fragment.findNavController
-import school.alihamz.assignment2.databinding.FragmentFirstBinding
+import school.alihamz.assignment2.MainActivity
+import school.alihamz.assignment2.R
 import school.alihamz.assignment2.databinding.FragmentRightAnsBinding
-import school.alihamz.assignment2.databinding.FragmentSeeAnsBinding
 
 class RightAnswerFragment : Fragment() {
 
